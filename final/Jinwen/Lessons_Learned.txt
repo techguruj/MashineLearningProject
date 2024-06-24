@@ -1,0 +1,16 @@
+was gut gemacht wird:
+*Teamzusammenhalt
+*Jedes Teammitglied war für seine Arbeit verantwortlich
+*Der Tutor hat auf Fragen geantwortet, wenn wir unsicher waren.
+*Wir konnten Erfahrungen für das erste Projekt mit maschinellem Lernen sammeln
+
+
+was  nicht gut gemacht wird:
+- Ich verstehe die Parameter der einzelnen Modelle nicht genau. Ich kann die Feinabstimmung des Modells nicht sehr gut vornehmen.
+- Es ist schwierig anzufangen, wenn alle zum ersten Mal ein Projekt zum maschinellen Lernen durchführt. 
+
+
+Was würde ich tun, wenn ich mehr Zeit und einen guten PC hätte?
+*PCA-Ergebnisse ausprobieren und umsetzen
+*mehr über die Parameter jedes Modells lernen. auf GridseachCV mehr ausprobieren.
+*Mehr Kategorie Zusammenfassung ausprobieren 
