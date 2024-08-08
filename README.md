@@ -1,5 +1,6 @@
 # Einführung
 ![image](https://github.com/user-attachments/assets/9e96760c-f911-4d59-86f8-4302ed1ebe1f)
+
 Dies ist unser Abschlussprojekt. Vielen Dank an die folgenden Mitglieder für ihren Beitrag: Jinwen, Antonio, Jad, Lina, Mohamed.
 Das Thema dieses Projekts ist die Vorhersage, ob Mitarbeiter des Unternehmens kündigen werden, basierend auf statistischen Daten zu 1130 Mitarbeitern in den folgenden 15 Dimensionen und unter Verwendung von maschinellen Lernmodellen sowie der Bewertung der Vorhersageergebnisse.
 
