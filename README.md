@@ -7,15 +7,15 @@ Vielen Dank an die folgenden Mitglieder für ihren Beitrag: Jinwen, Antonio, Jad
 Das Thema dieses Projekts ist die Vorhersage, ob Mitarbeiter des Unternehmens kündigen werden, basierend auf statistischen Daten zu 1130 Mitarbeitern in den folgenden 15 Dimensionen und unter Verwendung von maschinellen Lernmodellen sowie der Bewertung der Vorhersageergebnisse.
 
 
-15 Dimensionen: 
+#### 15 Dimensionen: 
 
  stag, event, gender, age, industry, profession, traffic, coach, head_gender, greywage, way, extraversion, independ, selfcontrol, anxiety, novator
 
-Verwendete Modelle:
+#### Verwendete Modelle:
 
  Bayes Gaussian, Decision Tree, Random Forest, Logistic Regression, KNN (k-nearest neighbors), SVC (Support Vector Classification), MLP (Multilayer perceptron)
 
-Erforderliche Bibliotheken:
+#### Erforderliche Bibliotheken:
 
  Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn
 
