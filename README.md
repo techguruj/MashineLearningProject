@@ -8,13 +8,16 @@ Das Thema dieses Projekts ist die Vorhersage, ob Mitarbeiter des Unternehmens k√
 
 
 15 Dimensionen: 
--stag, event, gender, age, industry, profession, traffic, coach, head_gender, greywage, way, extraversion, independ, selfcontrol, anxiety, novator
+
+ stag, event, gender, age, industry, profession, traffic, coach, head_gender, greywage, way, extraversion, independ, selfcontrol, anxiety, novator
 
 Verwendete Modelle:
--Bayes Gaussian, Decision Tree, Random Forest, Logistic Regression, KNN (k-nearest neighbors), SVC (Support Vector Classification), MLP (Multilayer perceptron)
+
+ Bayes Gaussian, Decision Tree, Random Forest, Logistic Regression, KNN (k-nearest neighbors), SVC (Support Vector Classification), MLP (Multilayer perceptron)
 
 Erforderliche Bibliotheken:
--Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn
+
+ Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn
 
 # Ablauf
 
