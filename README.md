@@ -20,13 +20,13 @@ Erforderliche Bibliotheken:
 
 ### 1. Datenanalyse
 - Mögliche Zusammenhänge zwischen den Daten finden
-- 
+  
 ![image](https://github.com/user-attachments/assets/e43dd75d-5621-4a78-9f00-252172519db2)
 
 ### 2. Datenvorbereitung
 - Ausreißer und fehlende Werte entfernen
 - Mit PCA (Principal Component Analysis) prüfen, ob eine Dimensionreduzierung möglich ist
-- ![image](https://github.com/user-attachments/assets/09e089b8-b4a5-4528-9014-be73a0682487)
+  ![image](https://github.com/user-attachments/assets/09e089b8-b4a5-4528-9014-be73a0682487)
 
 - Dimensionen mit zu vieler Unterdimensionen möglichst auf zwei Unterdimensionen reduzieren
 - Alle Dimensionen mit One-Hot-Encoding kodieren
